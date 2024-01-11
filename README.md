@@ -6,7 +6,7 @@
 Open CMD where you want to clone the project & run the following commands
 
 ```
-git clone https://github.com/EslaamMuhameed/Super-Kheir.git](https://github.com/EslaamMuhameed/Chat-app-.git
+git clone https://github.com/EslaamMuhameed/Chat-app-.git
 flutter pub get
 flutter run
 ```
