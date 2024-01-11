@@ -19,11 +19,11 @@ flutter run
 
 
 - <div class="row">
-    <img src="https://github.com/EslaamMuhameed/Chat-app-/blob/main/assets/3.jpg" align="left" height=30% width=31%/>
+    <img src="https://github.com/EslaamMuhameed/Chat-app-/blob/main/assets/3.jpg" align="left" height=30% width=25%/>
 
-    <img src="https://github.com/EslaamMuhameed/Chat-app-/blob/main/assets/4.jpg" align="center" height=30% width=31%/>
+    <img src="https://github.com/EslaamMuhameed/Chat-app-/blob/main/assets/4.jpg" align="center" height=30% width=25%/>
   
-    <img src="https://github.com/EslaamMuhameed/Chat-app-/blob/main/assets/2.jpg" align="right" height=30% width=31%/>
+    <img src="https://github.com/EslaamMuhameed/Chat-app-/blob/main/assets/2.jpg" align="right" height=30% width=25%/>
   </div>
 
 
